@@ -1,1 +1,1 @@
-const getMessage = message => message;
+const getMessage = (message) => message;

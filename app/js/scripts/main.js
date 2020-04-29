@@ -1,3 +1,3 @@
-$('document').ready(function() {
-    console.log(getMessage('Привет'));
+$("document").ready(function () {
+  console.log(getMessage("Привет"));
 });
